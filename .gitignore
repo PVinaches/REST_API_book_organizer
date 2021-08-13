@@ -1,0 +1,6 @@
+bookapi/__pycache__
+bookapi/migrations
+bookapi/tests/__pycache__
+bookworm/__pycache__
+bookworm/settings.py
+
